@@ -5,16 +5,22 @@
 ### Setup
 ```
 pkg update && pkg upgrade
+
 pkg install git python
 
+git clone https://github.com/rakibroni2468/Wifi_Crack
+
+cd Wifite_RakibRoni_installer
+
+python Installer.py
 ```
 ### Run
 Disable Wi-Fi in the system settings and run:
 ```
-sudo python OneShot/oneshot.py -i wlan0 -K
+sudo python Wifite_RakibRoni/wifihack.py -i wlan0 -K
 ```
 ### How to update OneShot
 To check for updates and update, run the following command:
 ```
-(cd OneShot && git pull)
+(cd Wifite_RakibRoni && git pull)
 ```
