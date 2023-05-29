@@ -1,14 +1,14 @@
 # ItsRakibRoni
 ### Wifite_RakibRoni_Installer
 ### Note:Your Device Must Be Rooted.
-## [OneShot](https://github.com/drygdryg/OneShot) installer for [Termux](https://termux.com/)
+## [RakibRoni](https://github.com/rakibroni2468/Wifite_RakibRoni) installer for [Termux](https://termux.com/)
 ### Setup
 ```
 pkg update && pkg upgrade
 
 pkg install git python
 
-git clone https://github.com/rakibroni2468/Wifi_Crack
+git clone https://github.com/rakibroni2468/Wifite_RakibRoni_installer
 
 cd Wifite_RakibRoni_installer
 
